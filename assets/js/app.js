@@ -14,7 +14,7 @@ function preguntarCafe() {
   agregarLinea(msg);
 }
 
-// La parte 1 se ejecutará después de 'operaciones' para respetar el orden pedido
+// La parte 1 se ejecutará después de operaciones para respetar el orden pedido
 
 // Utilidad mínima para imprimir en DOM
 function agregarLinea(texto) {
